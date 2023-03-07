@@ -3,17 +3,7 @@
 
 <p align="center">  
       
-[![TensorFlow - ML](https://img.shields.io/static/v1?label=TensorFlow&message=ML&color=2ea44f&logo=TensorFlow)](https://)
 
-[![scikit-learn - ML](https://img.shields.io/static/v1?label=scikit-learn&message=ML&color=2ea44f&logo=scikit-learn)](https://)    
-
-[![Keras - ML](https://img.shields.io/static/v1?label=Keras&message=ML&color=2ea44f&logo=Keras)](https://) 
-
-[![Python - Language](https://img.shields.io/static/v1?label=Python&message=Language&color=2ea44f&logo=Python)](https://)
-      
-[![Jupyter - Notebook](https://img.shields.io/static/v1?label=Jupyter&message=Notebook&color=2ea44f&logo=Jupyter)](https://) 
-
-[![Matplotlib - Visualization](https://img.shields.io/static/v1?label=Matplotlib&message=Visualization&color=2ea44f&logo=Matplotlib)](https://) 
 
 <a href="https://"><img src="https://img.shields.io/static/v1?label=librosa&message=Audio+Analysis&color=2ea44f&logo=librosa&logoColor=blue" alt="librosa - Audio Analysis"></a>
       

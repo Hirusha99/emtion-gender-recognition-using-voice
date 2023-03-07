@@ -2,11 +2,7 @@
 # Emotion and Gender Recognition using Voice
 
 <p align="center">  
-      
-
-
-<a href="https://"><img src="https://img.shields.io/static/v1?label=librosa&message=Audio+Analysis&color=2ea44f&logo=librosa&logoColor=blue" alt="librosa - Audio Analysis"></a>
-      
+<a href="https://"><img src="https://img.shields.io/static/v1?label=librosa&message=Audio+Analysis&color=2ea44f&logo=librosa&logoColor=blue" alt="librosa - Audio Analysis"></a>    
 </p>     
       
 

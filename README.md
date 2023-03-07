@@ -1,7 +1,13 @@
 
 # Emotion and Gender Recognition using Voice
 
-<p align="center">  
+<p align="center">
+<a href="https://"><img src="https://img.shields.io/static/v1?label=TensorFlow&message=ML&color=2ea44f&logo=TensorFlow" alt="TensorFlow - ML"></a>
+<a href="https://"><img src="https://img.shields.io/static/v1?label=scikit-learn&message=ML&color=2ea44f&logo=scikit-learn" alt="scikit-learn - ML"></a>
+<a href="https://"><img src="https://img.shields.io/static/v1?label=Keras&message=ML&color=2ea44f&logo=Keras" alt="Keras - ML"></a>
+<a href="https://"><img src="https://img.shields.io/static/v1?label=Python&message=Language&color=2ea44f&logo=Python" alt="Python - Language"></a>
+<a href="https://"><img src="https://img.shields.io/static/v1?label=Jupyter&message=Notebook&color=2ea44f&logo=Jupyter" alt="Jupyter - Notebook"></a>
+<a href="https://"><img src="https://img.shields.io/static/v1?label=Matplotlib&message=Visualization&color=2ea44f&logo=Matplotlib" alt="Matplotlib - Visualization"></a>
 <a href="https://"><img src="https://img.shields.io/static/v1?label=librosa&message=Audio+Analysis&color=2ea44f&logo=librosa&logoColor=blue" alt="librosa - Audio Analysis"></a>    
 </p>     
       
